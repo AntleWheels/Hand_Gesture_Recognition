@@ -20,7 +20,6 @@ This project helped me deepen my understanding of:
 - Hyperparameter tuning
 - The importance of robust data preprocessing
 
-Check out some visuals of the model in action below! 🎉
 
 ---
 
